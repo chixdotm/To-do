@@ -2,3 +2,5 @@
 2. befejezni az 1. lépést
 3. rájönni, mit akarunk
 3/b HTML-ben megírjuk  a dolgot?
+
+4.server
