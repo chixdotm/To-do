@@ -4,3 +4,4 @@
 3/b HTML-ben megírjuk  a dolgot?
 
 4.server
+MÉG VALAMI
